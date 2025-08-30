@@ -1,4 +1,4 @@
-id,Requirements,Project,Requirement,Risk,Probability,Magnitude,Impact,Dimension,Afftecting,Fixing_Duration,Fix_Cost,Priority,Risk
+id,Requirements,Project,Requirement,Risk,Probability,Magnitude,Impact,Dimension,Afftecting,Fixing_Duration,Fix_Cost,Priority,Risk_Level
 1,The system shall display all the products that can be configured.,Transaction Processing System,Functional,Budget,10,Negligible,high,Requirements,9,1,10,95.715385,5
 2,The system shall allow user to select the product to configure.,Transaction Processing System,Functional,Quality,22,Very Low,catastrophic,Requirements,7,2,11,35.9,2
 3,The system shall display all the available components of the product to configure,Transaction Processing System,Functional,Schedule,33,Low,high,User,5,1,3,35.692308,2
